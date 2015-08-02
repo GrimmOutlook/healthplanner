@@ -1,28 +1,15 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Health App:
 
-Things you may want to cover:
+* Tracks Doctor visits - past, present, and future.
 
-* Ruby version
+* Reminders to make future appointments.
 
-* System dependencies
+* Ability to add notes to appointments.
 
-* Configuration
+* Ability to create a To Do List for daily health goals.
 
-* Database creation
+* Blog from dietician.
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* Journaling capability for thoughts/goals.
